@@ -1,0 +1,5 @@
+执行方式:telnet localhost 5005 / login liulin / say hello /logout
+
+详细说明:
+        简易聊天室
+
