@@ -1,0 +1,53 @@
+2017-03-24 17:12:06,376 - main.util - INFO - 你好我们的文本标记项目开始了!-<module>-util.py -12
+2017-03-24 17:12:06,377 - main.handlers - INFO - 处理程序开始-<module>-handlers.py -6
+2017-03-24 17:12:06,377 - main.handlers - INFO - method = <bound method HTMLRender.start_document of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,377 - main.util - DEBUG - line : hello world
+-lines-util.py -16
+2017-03-24 17:12:06,378 - main.handlers - INFO - method = <bound method HTMLRender.start_title of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,378 - main.handlers - INFO - method = <bound method HTMLRender.end_title of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,379 - main.util - DEBUG - block is ['hello world\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,379 - main.util - DEBUG - line : 
+-lines-util.py -16
+2017-03-24 17:12:06,379 - main.util - DEBUG - line : - this is 1
+-lines-util.py -16
+2017-03-24 17:12:06,379 - main.handlers - INFO - method = <bound method HTMLRender.start_list of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,379 - main.handlers - INFO - method = <bound method HTMLRender.start_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,379 - main.handlers - INFO - method = <bound method HTMLRender.end_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,379 - main.util - DEBUG - block is ['- this is 1\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,379 - main.util - DEBUG - line : 
+-lines-util.py -16
+2017-03-24 17:12:06,379 - main.util - DEBUG - line : - this is 2
+-lines-util.py -16
+2017-03-24 17:12:06,380 - main.handlers - INFO - method = <bound method HTMLRender.start_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,380 - main.handlers - INFO - method = <bound method HTMLRender.end_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,380 - main.util - DEBUG - block is ['- this is 2\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,380 - main.util - DEBUG - line : 
+-lines-util.py -16
+2017-03-24 17:12:06,380 - main.util - DEBUG - line : - this is 3
+-lines-util.py -16
+2017-03-24 17:12:06,380 - main.handlers - INFO - method = <bound method HTMLRender.start_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,380 - main.handlers - INFO - method = <bound method HTMLRender.end_listitem of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,380 - main.util - DEBUG - block is ['- this is 3\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,380 - main.util - DEBUG - line : 
+-lines-util.py -16
+2017-03-24 17:12:06,380 - main.util - DEBUG - line : http://www.baidu.com
+-lines-util.py -16
+2017-03-24 17:12:06,381 - main.util - DEBUG - line : abc *liulin* defghjklmn:
+-lines-util.py -16
+2017-03-24 17:12:06,381 - main.handlers - INFO - method = <bound method HTMLRender.sub_emphasis of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,381 - main.handlers - INFO - method = <bound method HTMLRender.sub_url of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,381 - main.handlers - INFO - method = <bound method HTMLRender.end_list of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,381 - main.handlers - INFO - method = <bound method HTMLRender.start_paragraph of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,381 - main.handlers - INFO - method = <bound method HTMLRender.end_paragraph of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,381 - main.util - DEBUG - block is ['http://www.baidu.com\r\n', 'abc *liulin* defghjklmn:\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,381 - main.util - DEBUG - line : 
+-lines-util.py -16
+2017-03-24 17:12:06,381 - main.util - DEBUG - line : liulin@qq.com is my email
+-lines-util.py -16
+2017-03-24 17:12:06,382 - main.util - DEBUG - line : asdf asdfa sd:
+-lines-util.py -16
+2017-03-24 17:12:06,382 - main.handlers - INFO - method = <bound method HTMLRender.sub_mail of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,382 - main.handlers - INFO - method = <bound method HTMLRender.start_paragraph of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,382 - main.handlers - INFO - method = <bound method HTMLRender.end_paragraph of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
+2017-03-24 17:12:06,382 - main.util - DEBUG - block is ['liulin@qq.com is my email\r\n', 'asdf asdfa sd:\r\n'] -blocks-util.py -27
+2017-03-24 17:12:06,382 - main.handlers - INFO - method = <bound method HTMLRender.end_document of <handlers.HTMLRender instance at 0x7fc0a5aac2d8>>-callback-handlers.py -16
