@@ -1,0 +1,5 @@
+执行方式: python guiclient.py urls.txt files1/ http://localhost:4242
+          python guiclient.py urls.txt files1/ http://localhost:4243
+注意: root 用户 与 liulin 用户的切换, 用户要一致否则权限不够执行不了
+          
+        
